@@ -8,12 +8,12 @@ export default defineConfig({
     vue(),
     VitePWA({
       registerType: 'autoUpdate', // El SW se actualiza automáticamente
-      includeAssets: ['favicon.ico', 'robots.txt', 'apple-touch-icon.png'],
+      includeAssets: ['aicon.png', 'robots.txt'],
       manifest: {
         name: 'Motomami',
         short_name: 'Motomami',
         description: 'Mi aplicación Vue convertida en PWA',
-        theme_color: '#42b883',
+        theme_color: '#af150b',
         background_color: '#ffffff',
         display: 'standalone',
         start_url: '/',
