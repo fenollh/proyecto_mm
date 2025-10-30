@@ -17,19 +17,19 @@
 import { ref } from 'vue'
 
 // Importar imágenes correctamente
-import msg1 from '/src/assets/mensaje_1.JPG';
-import msg2 from '/src/assets/mensaje_2.JPG';
-import msg3 from '/src/assets/mensaje_3.JPG';
-import msg4 from '/src/assets/mensaje_4.JPG';
-import msg5 from '/src/assets/mensaje_5.JPG';
-import msg6 from '/src/assets/mensaje_6.JPG';
-import msg7 from '/src/assets/mensaje_7.JPG';
-import msg8 from '/src/assets/mensaje_8.JPG';
-import msg9 from '/src/assets/mensaje_9.JPG';
-import msg10 from '/src/assets/mensaje_10.JPG';
-import msg11 from '/src/assets/mensaje_11.JPG';
-import msg12 from '/src/assets/mensaje_12.JPG';
-import msg13 from '/src/assets/mensaje_13.JPG';
+import msg1 from './assets/mensaje_1.JPG';
+import msg2 from './assets/mensaje_2.JPG';
+import msg3 from './assets/mensaje_3.JPG';
+import msg4 from './assets/mensaje_4.JPG';
+import msg5 from './assets/mensaje_5.JPG';
+import msg6 from './assets/mensaje_6.JPG';
+import msg7 from './assets/mensaje_7.JPG';
+import msg8 from './assets/mensaje_8.JPG';
+import msg9 from './assets/mensaje_9.JPG';
+import msg10 from './assets/mensaje_10.JPG';
+import msg11 from './assets/mensaje_11.JPG';
+import msg12 from './assets/mensaje_12.JPG';
+import msg13 from './assets/mensaje_13.JPG';
 
 // Lista de imágenes usando los imports
 const imagenes = [
