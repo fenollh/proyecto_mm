@@ -16,7 +16,8 @@ export default defineConfig({
         theme_color: '#af150b',
         background_color: '#ffffff',
         display: 'standalone',
-        start_url: '/',
+        start_url: '/proyecto_mm/',
+        scope: '/proyecto_mm',
         icons: [
           {
             src: 'aicon.png',
