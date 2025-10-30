@@ -17,18 +17,18 @@
 import { ref } from 'vue'
 
 // Importar imágenes correctamente
-import msg1 from './assets/mensaje_1.JPG';
-import msg2 from './assets/mensaje_2.JPG';
-import msg3 from './assets/mensaje_3.JPG';
-import msg4 from './assets/mensaje_4.JPG';
-import msg5 from './assets/mensaje_5.JPG';
-import msg6 from './assets/mensaje_6.JPG';
-import msg7 from './assets/mensaje_7.JPG';
-import msg8 from './assets/mensaje_8.JPG';
+import msg1 from './assets/mensaje_1.jpg';
+import msg2 from './assets/mensaje_2.jpg';
+import msg3 from './assets/mensaje_3.jpg';
+import msg4 from './assets/mensaje_4.jpg';
+import msg5 from './assets/mensaje_5.jpg';
+import msg6 from './assets/mensaje_6.jpg';
+import msg7 from './assets/mensaje_7.jpg';
+import msg8 from './assets/mensaje_8.jpg';
 import msg9 from './assets/mensaje_9.JPG';
 import msg10 from './assets/mensaje_10.JPG';
 import msg11 from './assets/mensaje_11.JPG';
-import msg12 from './assets/mensaje_12.JPG';
+import msg12 from './assets/mensaje_12.jpg';
 import msg13 from './assets/mensaje_13.JPG';
 
 // Lista de imágenes usando los imports
