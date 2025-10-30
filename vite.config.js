@@ -8,7 +8,7 @@ export default defineConfig({
     vue(),
     VitePWA({
       registerType: 'autoUpdate', // El SW se actualiza automáticamente
-      includeAssets: ['aicon.png', 'robots.txt'],
+      includeAssets: ['aicon.png'],
       manifest: {
         name: 'Motomami',
         short_name: 'Motomami',
